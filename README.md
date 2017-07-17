@@ -15,30 +15,30 @@
 	- Education and Awareness
 	- Social Impact through Technology
 
-# ____01010101____ M A N I F E S T O ____01010101____
+# 01010101........M A N I F E S T O........01010101
 
-### Semi-flat over Heirarchy;
+### Semi-flat over Heirarchy
 	- We prefer a **semi-flat** organization where people involved gets to be heard and valued before decision takes place. We believe in **self-organizing** teams/individuals when running the org. 	
 
-### Learning++;
+### Learning++
 	- There is no end to **learning**. We encourage everyone to continue tinkering and to stay curious on how things work. Iterate, learn, then continue. 
 
-### DIWO;
-	- While we love **DIY** (Do It Yourself) when we work on something, we believe it is more fullfilling to **DIWO** (Do It With Others).
+### DiWO
+	- While we love **DIY** (Do it Yourself) when we work on something, we believe it is more fullfilling to **DIWO** (Do it With Others).
 
-### Knowledge Sharing over Criticizing;
+### Knowledge Sharing over Criticism
 	- Whether an individual is a student, an engineer, a technician, there is no line separating them. We promote knowledge sharing with everybody. Showing up to **give** (not just get) is the key.
 
-### Education;
+### Education
 	- We acknowledge that Education plays a huge role towards the advancement of society and the future of our generation. We support any education initiatives from the young learners (kids) to University level. We continue to teach and provide assistance in accordance to our capacity.
 
-### Community Building;
+### Community Building
 	- Building a community of engineers, students, tinkerers, inventors, professionals, and young learners where everyone is welcome to contribute is what drives us. 
 
-### Bridge Businesses;
+### Bridge Businesses
 	- We foster **technopreneurship** among members and help them grow their businesses.
 
-### Make a dent;
+### Make a dent
 	- We look forward to finding opportunities to build **Technology for Good**. We are more than happy to collaborate on projects that have impact to our environment and society. 
 
 **JOIN US!!!**
