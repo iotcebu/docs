@@ -17,14 +17,14 @@
 
 # 01010101. . . . . . . . M A N I F E S T O . . . . . . . . 01010101
 
-### Semi-flat over Heirarchy;
+### Semi-flat over Hierarchy;
 We prefer a **semi-flat** organization where people involved gets to be heard and valued before decision takes place. We believe in **self-organizing** teams/individuals when running the org. 	
 
 ### Learning++;
 There is no end to **learning**. We encourage everyone to continue tinkering and to stay curious on how things work. Iterate, learn, then continue. 
 
 ### DiWO;
-While we love **DIY** (Do it Yourself) when we work on something, we believe it is more fullfilling to **DIWO** (Do it With Others).
+While we love **DIY** (Do it Yourself) when we work on something, we believe it is more fullfilling to **DiWO** (Do it With Others).
 
 ### Knowledge Sharing over Criticism;
 Whether an individual is a student, an engineer, a technician, there is no line separating them. We promote knowledge sharing with everybody. Showing up to **give** (not just get) is the key.
