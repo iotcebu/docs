@@ -30,7 +30,7 @@ While we love **DIY** (Do it Yourself) when we work on something, we believe it 
 Whether an individual is a student, an engineer, a technician, there is no line separating them. We promote knowledge sharing with everybody. Showing up to **give** (not just get) is the key.
 
 ### Education;
-We acknowledge that Education plays a huge role towards the advancement of society and the future of our generation. We support any education initiatives from the young learners (kids) to University level. We continue to teach and provide assistance in accordance to our capacity.
+We acknowledge that Education plays a huge role towards the advancement of society and the future of our generation. We support any education initiatives targeted to the young learners (kids) up to University level. We continue to teach and provide assistance in accordance to our capacity.
 
 ### Community Building;
 Building a community of engineers, students, tinkerers, inventors, professionals, and young learners where everyone is welcome to contribute is what drives us. 
