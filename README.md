@@ -17,8 +17,8 @@
 
 # 01010101. . . . . . . . M A N I F E S T O . . . . . . . . 01010101
 
-### Semi-flat over Hierarchy;
-We prefer a **semi-flat** organization where people involved gets to be heard and valued before decision takes place. We believe in **self-organizing** teams/individuals when running the org. 	
+### Flat over Hierarchy;
+We prefer a **flat** organization where people involved gets to be heard and valued before decision takes place. We believe in **self-organizing** teams/individuals when running the org. 	
 
 ### Learning++;
 There is no end in **learning**. We encourage everyone to continue tinkering and to stay curious especially on how things work. Iterate, learn, play, make, repeat. 
