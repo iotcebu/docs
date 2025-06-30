@@ -42,4 +42,4 @@ We foster **technopreneurship** among members and help them grow their businesse
 We look forward to finding opportunities to build **Technology for Good**. We are more than happy to collaborate on projects that have impact to our environment and society. 
 
 **JOIN US!!!**
-[http://iotcebu.io](http:iotcebu.io)
+[https://iotcebu.io](https://iotcebu.io)
